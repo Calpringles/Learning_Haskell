@@ -54,3 +54,15 @@ gcd a b = | a==b = a
         | a > b = gcd(a-b) b
         | otherwise = gcd a (b-a)
 
+
+
+-- end of booleans and comparators practice
+
+--Strings as Lists
+
+length1::String ->Int
+length1 [] = 0
+length1 (x:xs) = 1 + Length1 xs
+
+
+--Hi Erin
