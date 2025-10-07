@@ -1,0 +1,1 @@
+git commit -m "Update Week2.hs"
